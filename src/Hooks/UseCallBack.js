@@ -65,3 +65,5 @@ function fab(n) {
 }
 
 //useCallback is used for memoized the function and useMemo is for memoized the value
+
+//and use for refrence equality cheker
